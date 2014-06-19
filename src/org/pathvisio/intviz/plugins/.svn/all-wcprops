@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/pvplugins/!svn/ver/1447/EdgeVisualization/trunk/src/org/pathvisio/edgevisualization/plugins
+END
+EdgeVisualizationPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/pvplugins/!svn/ver/1256/EdgeVisualization/trunk/src/org/pathvisio/edgevisualization/plugins/EdgeVisualizationPlugin.java
+END
+LineLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pvplugins/!svn/ver/1447/EdgeVisualization/trunk/src/org/pathvisio/edgevisualization/plugins/LineLabel.java
+END
+TextByLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pvplugins/!svn/ver/1447/EdgeVisualization/trunk/src/org/pathvisio/edgevisualization/plugins/TextByLine.java
+END
+ColorByLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pvplugins/!svn/ver/1447/EdgeVisualization/trunk/src/org/pathvisio/edgevisualization/plugins/ColorByLine.java
+END
+ColorByLinePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pvplugins/!svn/ver/1281/EdgeVisualization/trunk/src/org/pathvisio/edgevisualization/plugins/ColorByLinePanel.java
+END
